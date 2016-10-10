@@ -1,6 +1,10 @@
 # cai
 A Custom-AI batch script
 
+# download
+You can download C-AI here:
+https://hostr.co/RjrcdmIaxMNm
+
 # license
 MIT License
 
